@@ -1,3 +1,3 @@
-# pull-request-test
+# PULL-REQUEST-TEST
 
-[![Build Status](https://github.com/gr2m/pull-request-test/workflows/Test/badge.svg)](https://github.com/gr2m/pull-request-test/actions?query=workflow%3ATest+branch%3Amaster)
+[![BUILD STATUS](HTTPS://GITHUB.COM/GR2M/PULL-REQUEST-TEST/WORKFLOWS/TEST/BADGE.SVG)](HTTPS://GITHUB.COM/GR2M/PULL-REQUEST-TEST/ACTIONS?QUERY=WORKFLOW%3ATEST+BRANCH%3AMASTER)
